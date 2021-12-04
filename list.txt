@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 Dima
-=======
 Perepechaev Ivan Andreevich
->>>>>>> origin/feature/listIvan
-=======
 Nikita Kozlov
->>>>>>> origin/feature/listNikita
